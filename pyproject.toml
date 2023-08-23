@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "qa-guru-python-poetry"
+version = "0.1.0"
+description = ""
+authors = ["Anna Malinovskaia <tacitcoast@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selene = "2.0.0rc2"
+pytest = ">=7.3.1,<7.4.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pylint = "^2.17.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
