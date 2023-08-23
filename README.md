@@ -19,7 +19,11 @@ ___
 ## Дополнительные материалы
 
 [Virtualenv](https://virtualenv.pypa.io/en/latest/index.html)
+
 [Официальные инструменты для управления зависимостями](https://github.com/pypa)
+
 [Poetry](https://python-poetry.org/)
+
 [pyproject.toml](https://peps.python.org/pep-0621/)
+
 [Управляем питонами](https://github.com/pyenv/pyenv)
